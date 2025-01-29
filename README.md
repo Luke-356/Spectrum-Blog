@@ -16,7 +16,7 @@ Before you begin, ensure you have the following software installed on your machi
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Luke-356/Spectrum-Blog
+   git clone https://github.com/Luke-356/Spectrum-Blog.git
    ```
    ```bash
    cd Spectrum-Blog
